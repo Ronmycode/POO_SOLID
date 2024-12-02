@@ -5,6 +5,7 @@
 1. Encapsulamiento
 
 principio que consiste en restringir el acceso directo a los atributos y métodos de un objeto, permitiendo que estos solo sean manipulados a través de métodos definidos en la clase. Esto protege el estado interno del objeto y asegura que solo se pueda modificar de forma controlada
+
 ![alt text](./src/img/Access_Level.PNG)
 
 2. Abstraccion
